@@ -2,7 +2,7 @@
 
 React 開発のキックオフに面倒になりがちな環境構築をテンプレート化したものです。
 
-![Logo](https://github.com/Exerea/React_TypeScript_Recoil_MIN_Conf/issues/1#issue-1510209724)
+![Logo](https://user-images.githubusercontent.com/97393820/209453403-2ab2fa2e-2b6a-4775-a4b3-47d70527b4da.svg)
 
 ## Authors
 
